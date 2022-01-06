@@ -1,0 +1,6 @@
+<meta charset="utf-8">
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="kamleshyadav">
+		<meta name="MobileOptimized" content="320">
